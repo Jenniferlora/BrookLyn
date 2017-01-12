@@ -1,8 +1,8 @@
 # HTML & CSS Reps!
 
-![CSS](https://i.giphy.com/TsxMkIKHpvFaU.gif)
+![CSS Fun](https://i.giphy.com/TsxMkIKHpvFaU.gif)
 
-Based on the mockups provided, help these companies style their dream websites!
+Web developers are often asked to produce websites or web applications based on design specs, wireframes, or full mockups. Tonight we're going to get some practice writing HTML and CSS to recreate mockups. Help these companies style their dream websites!
 
 ## Completion
 Part 1 and 2
@@ -20,7 +20,7 @@ Part 1 and 2
 - eCardly also needs a new website! But one of the devs on the engineering team already built out the HTML for you. How nice of him.
 - Your job is to use the `screenshot-final.png` to deliver the client a beautiful website.
 - Look at the provided `index.html` in the `starter_ecardly` folder and use that as a guide to target the elements you want to style.
-- Work in `style.css` in the `starter_ecardly` folder.
+- All of your work goes in `style.css` in the `starter_ecardly` folder.
 - Make your CSS changes to `style.css` in the area between **Base Style** and **Layout**.
 - You do not need to change anything in `normalize.css`!!!
 - Here are some tips to get you started:
@@ -51,7 +51,7 @@ Part 1 and 2
 
 #### `<h2>` + `<a>` tags
 
-* `<h2>`'s should have a font of 20px.  Also they should have a top and bottom margin of 10px, and no left and right margin.
+* `<h2>`'s should have a font of 20px. Also they should have a top and bottom margin of 10px, and no left and right margin.
 
 * links (`<a>` tags) inside of `<h2>`'s should be black and should not be underlined.
 
@@ -61,4 +61,5 @@ Part 1 and 2
 If you finish the first two parts of this assignment and are looking for some more practice, check out this [flexbox](http://flexboxfroggy.com/) tutorial.
 
 ## Homework Submission:
+
 Homework is due tonight by **11pm**. Follow the [Homework Guide](https://git.generalassemb.ly/nyc-wdi-fisher/student-resources/blob/master/homework-guide.md) for submission instructions.
