@@ -35,25 +35,29 @@ Part 1 and 2
 
 #### Links (`<a>` tags)
 
-* Links on the page should be red (`#ff3300`) and not be underlined.
+- Links on the page should be red (`#ff3300`) and not be underlined.
 
 #### Header Picture
 
-* The `<h1>` tag with the `<a>` tag inside of it should not be text but an image.
+- The `<h1>` tag with the `<a>` tag inside of it should not be text but an image.
 
-* Set the background of the `<a>` tag within an `<h1>` to the `logo.png`.
+- Set the background of the `<a>` tag within an `<h1>` to the `logo.png`.
 
-* Size its height and width appropriately to fit the full logo.
+- Size its height and width appropriately to fit the full logo.
 
-* Have it display `block`. This will have this tag appear on its own line. (It is how we can make it appear here).
+- Have it display `block`. This will have this tag appear on its own line. (It is how we can make it appear here).
 
-* Center it.
+- Center it.
 
 #### `<h2>` + `<a>` tags
 
-* `<h2>`'s should have a font of 20px. Also they should have a top and bottom margin of 10px, and no left and right margin.
+- `<h2>`'s should have a font size of 20px. Also they should have a top and bottom margin of 10px, and no left and right margin.
 
-* links (`<a>` tags) inside of `<h2>`'s should be black and should not be underlined.
+- links (`<a>` tags) inside of `<h2>`'s should be black and should not be underlined.
+
+#### Media Query `@media`
+
+- Write a media query that hides the right-side nav column when the screen width is narrow (you can choose the pixel width for this media query)
 
 
 ## Bonus
