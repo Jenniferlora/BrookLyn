@@ -56,8 +56,9 @@ Part 1 and 2
 * links (`<a>` tags) inside of `<h2>`'s should be black and should not be underlined.
 
 
-## BONUS PRACTICE
+## Bonus
 
 If you finish the first two parts of this assignment and are looking for some more practice, check out this [flexbox](http://flexboxfroggy.com/) tutorial.
 
-## Homework Submission
+## Homework Submission:
+Homework is due tonight by **11pm**. Follow the [Homework Guide](https://git.generalassemb.ly/nyc-wdi-fisher/student-resources/blob/master/homework-guide.md) for submission instructions.
