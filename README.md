@@ -1,6 +1,6 @@
 # HTML & CSS Reps!
 
-![](http://www.kappit.com/img/pics/201510_1728_aefec_sm.png)
+![](http://imgh.us/ok_2.svg)
 
 Web developers are often asked to produce websites or web applications based on design specs, wireframes, or full mockups. Tonight we're going to get some practice writing HTML and CSS to recreate mockups. Help these companies style their dream websites!
 
