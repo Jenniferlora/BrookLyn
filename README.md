@@ -66,4 +66,4 @@ If you finish the first two parts of this assignment and are looking for some mo
 
 ## Homework Submission:
 
-Homework is due tonight by **11pm**. Follow the [Homework Guide](https://git.generalassemb.ly/nyc-wdi-fisher/student-resources/blob/master/homework-guide.md) for submission instructions.
+Homework is due tonight by **11pm**. Follow the [Homework Guide](https://git.generalassemb.ly/wdi-nyc-1-30/syllabus/wiki/Homework-Submission) for submission instructions.
