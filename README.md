@@ -64,6 +64,6 @@ Part 1 and 2
 
 If you finish the first two parts of this assignment and are looking for some more practice, check out this [flexbox](http://flexboxfroggy.com/) tutorial.
 
-## Homework Submission:
+## Submission
 
-Homework is due tonight by **11pm**. Follow the [Homework Guide](https://git.generalassemb.ly/wdi-nyc-1-30/syllabus/wiki/Homework-Submission) for submission instructions.
+Homework is due by **11:00 Today!** Remember to work with each other and go to TAs when you need it, but follow the [guidelines](https://git.generalassemb.ly/wdi-nyc-8-28/Course-Information/blob/master/how-to-queue-with-TAs.md) for queuing. Follow the [rules for homework submission](https://git.generalassemb.ly/wdi-nyc-8-28/Course-Information/blob/master/homework.md) for creating your pull request to submit the homework.
