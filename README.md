@@ -59,11 +59,22 @@ Part 1 and 2
 
 - Write a media query that hides the right-side nav column when the screen width is narrow (you can choose the pixel width for this media query)
 
-
 ## Bonus
 
 If you finish the first two parts of this assignment and are looking for some more practice, check out this [flexbox](http://flexboxfroggy.com/) tutorial.
 
-## Submission
+## Test your code before submission!
 
-Homework is due by **11:00 Today!** Remember to work with each other and go to TAs when you need it, but follow the [guidelines](https://git.generalassemb.ly/wdi-nyc-8-28/Course-Information/blob/master/how-to-queue-with-TAs.md) for queuing. Follow the [rules for homework submission](https://git.generalassemb.ly/wdi-nyc-8-28/Course-Information/blob/master/homework.md) for creating your pull request to submit the homework.
+1. You can make your changes in main.js, console.log your variables, save your file then in Terminal run "node main.js".
+2. You can make an account here: https://repl.it/, and test your code using this online text editor.
+3. If you setup node as your buildpack in Sublime Text, you can do "CMD+B" to run your code in Sublime Text.
+
+## Homework Submission:
+
+* Homework is due at **11PM** tonight!
+* [Follow these instructions to submit your assignment](https://git.generalassemb.ly/wdi-jackalope/jackalope-students/blob/master/HOMEWORK.md)
+* [If you need help with your homework, check out the Student Resource Center!](https://git.generalassemb.ly/wdi-jackalope/jackalope-students/blob/master/SRC.md)
+
+## [An important note on plagiarism](https://git.generalassemb.ly/wdi-jackalope/jackalope-students/blob/master/PLAGIARISM.md)
+
+# Make sure to get some sleep!
