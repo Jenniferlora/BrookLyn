@@ -1,14 +1,41 @@
-/*
+#logo{
+	margin:20px;
+}
 
-## Style Hints:
+body{
+	font-size: 12px;
+	line-height: 17px;
+	font-family: "Times New Roman", serif;
+	color: #656565;
+}
 
-Body Font Size = 12px
-	 Line Height = 17px
-	 Font Family = "Times New Roman", serif
-	 Font Color = #656565
+#container{
+	margin:0 auto;
+	width:960px;
+	border:1px solid black;
 
-Link Hover Color = #20222a
+}
+.press{
+	margin-left:6px;
+	border:3px solid grey;
+}
+h2{
+	width:960px;
+	padding: 0 0 10px 10px;
 
+}
+p{
+	width:950px;
+	padding: 0 0 10px 10px;
+}
+
+a:hover{
+	color:#20222a;
+}
+#copy{
+	margin:0;
+	padding:0 0 0 10px;
+}
 GO FOR IT  :D   Don't worry about getting it exact!
 
-*/
+
